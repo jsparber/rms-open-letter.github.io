@@ -465,7 +465,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Charlotte Masterson (Hardware and R&D manager at Fivnex)
 1. Chen Chang
 1. Chloe Cota (@sweetpavement)
-1. Chloe Ramos (`Chaspen`)
 1. Chris Adams (@acdha)
 1. Chris Aniszczyk
 1. Chris Araman
@@ -495,7 +494,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christian Brunschen
 1. Christian Buhtz
 1. Christian Glombek (Fedora Project contributor)
-1. Christian Grobmeier (Open Source contributor and author of _The Zen Programmer_)
 1. Christian “haseHH” Hase
 1. Christian Heimes (Python)
 1. Christian Hergert (GNOME)
@@ -849,7 +847,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ferdia McKeogh
 1. Fernando Cosentino (github user fbcosentino)
 1. Fernando Pérez (recipient of 2012 FSF Award for the Advancement of Free Software, IPython creator, Project Jupyter co-founder and co-director, NumFOCUS co-founder, 2i2c.org co-founder).
-1. Filipe Fernandes (ocefpaf, conda-forge core member)
 1. Filipe Laíns (Arch Linux TU, PyPA maintainer)
 1. Filip S. (`fantoro`)
 1. Fintan Horan
@@ -1281,6 +1278,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julian Bouzas (Collabora)
 1. Julian Graham (former FSF associate member)
 1. Julian Hofer (GNOME, Deltares)
+1. Julian Sparber (GNOME, Fractal)
 1. Julianne "KokaKiwi" Hervier
 1. Julien Cristau (Debian, X.Org, Mozilla)
 1. Julien Humbert
@@ -2295,7 +2293,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vyivel
 1. Ward Vandewege (Former FSF staff and FSF member)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
-1. Wayne Warren (nerd of no particular note)
 1. Weilbyte
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wendy Seltzer
